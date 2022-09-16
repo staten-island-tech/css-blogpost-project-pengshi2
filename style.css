@@ -1,11 +1,12 @@
 body {
   background-color: black;
   color: orangered;
-  font-size: 25;
+  font-family: "Oswald", sans-serif;
 }
 
 .main-header {
   color: white;
+  margin: 60px auto;
 }
 
 .cool {
@@ -19,6 +20,12 @@ body {
   text-align: center;
 }
 
-.queen {
+.background {
   text-align: center;
+}
+
+.image {
+  background-image: url(queen.jpg);
+  background-position: center;
+  margin-right: 25px;
 }
