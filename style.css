@@ -2,25 +2,16 @@ body {
   background-color: black;
   color: orangered;
   font-family: "Oswald", sans-serif;
+  text-align: center;
 }
 
 .main-header {
   color: white;
-  margin: 60px auto;
+  text-align: center;
 }
 
 .cool {
   color: red;
-}
-.cool {
-  text-align: center;
-}
-
-.main-header {
-  text-align: center;
-}
-
-.background {
   text-align: center;
 }
 
@@ -28,4 +19,13 @@ body {
   background-image: url(queen.jpg);
   background-position: center;
   margin-right: 25px;
+}
+
+.body {
+  text-align: center;
+}
+
+.queen2 {
+  text-align: center;
+  margin-top: 20px auto;
 }
