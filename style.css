@@ -3,29 +3,36 @@ body {
   color: orangered;
   font-family: "Oswald", sans-serif;
   text-align: center;
+  font-size: 40px;
 }
 
-.main-header {
+.text {
   color: white;
-  text-align: center;
-}
-
-.cool {
-  color: red;
   text-align: center;
 }
 
 .image {
   background-image: url(queen.jpg);
-  background-position: center;
-  margin-right: 25px;
+  margin-top: 50px;
 }
 
 .body {
   text-align: center;
 }
 
-.queen2 {
+.link {
   text-align: center;
-  margin-top: 20px auto;
+  margin-top: 50px;
+}
+
+.text2 {
+  margin-top: 250px;
+  color: blue;
+}
+
+.text3 {
+  padding-bottom: 50px;
+  border-radius: 20px;
+  border: 10px solid crimson;
+  color: darkturquoise;
 }
