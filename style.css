@@ -1,14 +1,9 @@
 body {
-  background-color: black;
+  background-color: darksalmon;
   color: orangered;
   font-family: "Oswald", sans-serif;
   text-align: center;
   font-size: 40px;
-}
-
-.text {
-  color: white;
-  text-align: center;
 }
 
 .image {
@@ -18,6 +13,8 @@ body {
 
 .body {
   text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-size: 40px;
 }
 
 .link {
@@ -25,14 +22,13 @@ body {
   margin-top: 50px;
 }
 
-.text2 {
-  margin-top: 250px;
-  color: blue;
-}
-
 .text3 {
-  padding-bottom: 50px;
+  padding-bottom: 10px;
   border-radius: 20px;
-  border: 10px solid crimson;
-  color: darkturquoise;
+  margin-left: auto;
+  border: 10px solid black;
+  color: blueviolet;
+  font-family: "Oswald", sans-serif;
+  font-size: 40px;
+  background-color: black;
 }
