@@ -32,3 +32,22 @@ body {
   font-size: 40px;
   background-color: black;
 }
+
+.paragraph {
+  margin: auto;
+  background-color: blueviolet;
+  padding: 5px;
+}
+
+.paragraph2 {
+  margin: auto;
+  background-color: blueviolet;
+  padding: 5px;
+}
+
+.paragraph3 {
+  margin: auto;
+  background-color: blueviolet;
+  padding: 5px;
+  border-radius: 1px;
+}
