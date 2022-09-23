@@ -1,6 +1,6 @@
 body {
-  background-color: darksalmon;
-  color: orangered;
+  background-color:black
+  color:white
   font-family: "Oswald", sans-serif;
   text-align: center;
   font-size: 40px;
@@ -25,24 +25,27 @@ body {
 .text3 {
   padding-bottom: 10px;
   border-radius: 20px;
-  margin-left: auto;
-  border: 10px solid black;
+  margin-right: auto;
+  border: 20px solid black;
   color: blueviolet;
   font-family: "Oswald", sans-serif;
   font-size: 40px;
   background-color: black;
+
 }
 
 .paragraph {
   margin: auto;
   background-color: blueviolet;
   padding: 5px;
+  length:
 }
 
 .paragraph2 {
   margin: auto;
   background-color: blueviolet;
   padding: 5px;
+  length: 80px; 
 }
 
 .paragraph3 {
