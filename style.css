@@ -36,21 +36,41 @@ body {
 
 .paragraph {
   margin: auto;
-  background-color: blueviolet;
   padding: 5px;
   length:
 }
 
 .paragraph2 {
   margin: auto;
-  background-color: blueviolet;
   padding: 5px;
   length: 80px; 
 }
 
 .paragraph3 {
   margin: auto;
-  background-color: blueviolet;
   padding: 5px;
   border-radius: 1px;
+}
+
+.text2 {
+  padding-bottom: 10px;
+  border-radius: 20px;
+  margin-top: auto;
+  border: 20px solid black;
+  color: blueviolet;
+  font-family: "Oswald", sans-serif;
+  font-size: 40px;
+  background-color: black;
+}
+
+.text {
+  padding-bottom: 10px;
+  border-radius: 20px;
+  margin-right: auto;
+  border: 20px solid black;
+  color: blueviolet;
+  font-family: "Oswald", sans-serif;
+  font-size: 40px;
+  background-color: black;
+
 }
