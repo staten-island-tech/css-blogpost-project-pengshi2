@@ -1,70 +1,17 @@
 body {
-  background-color:black
+  text-align: center;
+  font-size: 25px;
+  box-sizing: border-box;
+}
+
+.words {
+  margin: 20px auto;
+  padding: 45px;
+  text-align: center;
   font-family: "Oswald", sans-serif;
-  text-align: center;
-  font-size: 40px;
-}
-
-.text3 {
-  padding-bottom: 50px;
-  border-radius: 10px;
-  border-color: black;
-  margin-right: auto;
-  color: blueviolet;
-  font-size: 40px;
-  width: fit-content;
-  text-align: center;
-}
-
-.paragraph {
-  margin: auto;
-  padding: 5px;
-  border-radius: 1px;
-  width: fit-content;
-  text-align: center;
-}
-
-.paragraph2 {
-  margin: auto;
-  padding: 5px;
-  border-radius: 1px;
-  width: fit-content;
-  text-align: center;
-}
-
-.paragraph3 {
-  margin-bottom: auto;
-  padding: 5px;
-  border-radius: 1px;
-  width: fit-content;
-  text-align: center;
-}
-
-.text2 {
-  padding-bottom: 10px;
+  font-size: 35px;
+  background: grey;
+  border: 3px solid black;
+  width: 60%;
   border-radius: 20px;
-  margin-top: auto;
-  color: blueviolet;
-  font-family: "Oswald", sans-serif;
-  font-size: 40px;
-  text-align: center;
-}
-
-.text {
-  padding-bottom: 10px;
-  margin-right: auto;
-  color: blueviolet;
-  font-family: "Oswald", sans-serif;
-  font-size: 40px;
-  text-align: center;
-
-}
-
-.text1 {
-  padding-bottom: 10px;
-  margin-top: 500px;
-  color: blueviolet;
-  font-family: "Oswald", sans-serif;
-  font-size: 40px;
-  text-align: center;
 }
